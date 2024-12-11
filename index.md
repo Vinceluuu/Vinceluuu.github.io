@@ -3,9 +3,11 @@
 
 I am currently a computer science major at California State University, Fullerton and I plan on graduating in 2028. 
 
-## My GitHub page is https://github.com/Vinceluuu. 
+## Computer Science Projects 
 
-## Favorite CPSC 120l Labs 
+My GitHub page is https://github.com/Vinceluuu. 
+
+### Favorite CPSC 120l Labs 
 
 * Lab 3 part 1 was a favorite because we were able to make a program to calculate your basal metabolic rate. This was one of my favorite labs because I liked how we applied math within our program to calculate this. Through this lab, I learned how to write function definitions and call them effectively in my code. 
 
