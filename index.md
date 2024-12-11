@@ -1,7 +1,7 @@
 
 # Vince Luu's Portfolio
 
-I am currently a computer science major at California State University, Fullerton and i plan on graduating in 2028. 
+I am currently a computer science major at California State University, Fullerton and I plan on graduating in 2028. 
 
 ## Favorite CPSC 120l Labs 
 
