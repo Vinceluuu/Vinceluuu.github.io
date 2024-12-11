@@ -5,7 +5,7 @@ I am currently a computer science major at California State University, Fullerto
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/Vinceluuu.
+My GitHub page is https://github.com/Vinceluuu
 
 ### Favorite CPSC 120l Labs
 
